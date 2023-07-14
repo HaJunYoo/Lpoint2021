@@ -9,3 +9,7 @@
 <br>
 
 - 이 때 피쳐 간의 연관성을 반영한 doc2vec에 가까운 word2vec을 적용한 피쳐들을 이용해 앙상블 모델링을 거쳐 Prediction Loss를 줄였습니다.
+
+<br>
+
+정리 링크 : [정리 url](https://hajunyoo.oopy.io/a6ec856b-0449-4ef4-a911-68693b944067)
